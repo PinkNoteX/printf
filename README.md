@@ -13,7 +13,7 @@ library
   *  o : Ouputs a Signed octal
   *  u : Ouputs a Unsigned integer
   *  x : Ouputs a Unsigned hexadecimal
-  *  p : Ouputs a Pointer adress
+  *  p : Ouputs a Pointer adaress
   *  r : Ouputs a Reverse string of characters
   *  % : Ouputs a Character
 * Some Examples:
@@ -27,6 +27,4 @@ library
 3. Printing a binary, octal and hexadecimal:
    * Use: ```_printf("10 in binary is [%b], in octal is [%o] and in hexadecimal is [%x]", 5, 5, 5);```
    * Output: 10 in binary is [1010], in octal is [12] and in hexadecimal is [A]
-* Created by
-   * **Omar Ehab**
-   * **Eslam Gamal**
+
